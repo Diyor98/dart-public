@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  const name = 'Foo';
+  const String name = 'Foo';
   print(name);
   // name = "Hello";
 }
